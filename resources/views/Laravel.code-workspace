@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../../laravel-api-sanctum"
+		},
+		{
+			"path": "../../../laravel-api-passport"
+		},
+		{
+			"path": "../../../new-ecommerce"
+		},
+		{
+			"path": "../../../laravel_pusher"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../mohamed_ammar"
+		},
+		{
+			"path": "../../../../bus"
+		},
+		{
+			"path": "../../../laravel-portofolio"
+		}
+	],
+	"settings": {}
+}
