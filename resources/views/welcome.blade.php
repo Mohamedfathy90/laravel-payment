@@ -21,7 +21,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="small mb-1">SKU: BST-498</div>
+                    <div class="small mb-1">SKU: BST-500</div>
                     <h1 class="display-5 fw-bolder">Shop item template</h1>
                     <div class="fs-5 mb-5">
                     <label>Price</label>
